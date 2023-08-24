@@ -3,7 +3,7 @@
     {
       "id": 1,
       "kode": "K-01",
-      "nama": "Sate Ayam",
+      "nama": "Sate Ayam online",
       "harga": 16000,
       "is_ready": true,
       "gambar": "sate-ayam.jpg"
